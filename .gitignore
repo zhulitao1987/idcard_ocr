@@ -1,0 +1,17 @@
+# 图片文件
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.webp
+*.tiff
+*.tif
+*.ico
+*.svg
+
+# 日志文件
+*.log
+
+# 系统文件
+*.stackdump
